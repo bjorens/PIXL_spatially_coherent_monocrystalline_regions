@@ -20,7 +20,7 @@ INPUT:
 Reqired files in the scan directory:
     
 Diffraction and Roughness file.
-"*-Diffraction Peaks and Roughness.csv" - this file is exprted from PIXLISE and contains the following columns
+"*-Diffraction Peaks and Roughness.csv" - this file is exported from PIXLISE and contains the following columns
 ID, PMC Energy (keV),   Energy Start (keV), Energy End (keV),   Effect Size,    Baseline Variation, Global Difference,  Difference Sigma,   Peak Height,    Detector,   Channel,    Status
 
 Beam Locations file
